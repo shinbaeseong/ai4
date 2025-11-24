@@ -74,6 +74,10 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
+    labels[0] : ["texts" : ["중국식 냉면은 맛있어"], "images" : ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.esquirekorea.co.kr%2Farticle%2F67862&psig=AOvVaw2-MXlosEeB9XgpKVUD8C4u&ust=1764032636389000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMit8vHLiZEDFQAAAAAdAAAAABAL"]
+    labels[1] : ["texts" : ["짜장면은 맛있어"], "images" : ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fm.foodingfactory.com%2Fgoods%2Fgoods_view.php%3FgoodsNo%3D1000009908&psig=AOvVaw1A69A0bYAzDB7nJptnobyP&ust=1764031951473000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCJC49uTJiZEDFQAAAAAdAAAAABAT"]
+labels[2] : ["texts" : ["짬뽕은 맛있어"], "images" : ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fnamu.wiki%2Fw%2F%25EC%25A7%25AC%25EB%25BD%2595&psig=AOvVaw07JI25mtUTGa-NHsZmDJ6a&ust=1764032570412000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCPitmtXLiZEDFQAAAAAdAAAAABAE"]
+labels[3] : ["texts" : ["탕수육은 맛있"], "images" : ["https://www.google.com/url?sa=i&url=https%3A%2F%2Fshopping.hansalim.or.kr%2Fshopping%2Fprod%2FprodView.do%3FGDS_CD%3D060306001&psig=AOvVaw1ZMvJjUysGXb-7eHQhHiHm&ust=1764032606386000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCMix6ObLiZEDFQAAAAAdAAAAABAE"]
 }
 
 # ======================
